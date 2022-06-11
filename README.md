@@ -1,3 +1,5 @@
-##loan calculator 
+##Loan calculator 
 
-This serves the purpose of calculating loan amortization
+This for calculating loan amortization
+
+Programming language: Go
