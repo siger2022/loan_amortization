@@ -1,5 +1,5 @@
 ##Loan calculator 
 
-This for calculating loan amortization
+This is for calculating loan amortization
 
 Programming language: Go
